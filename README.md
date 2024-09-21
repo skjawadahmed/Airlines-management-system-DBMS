@@ -1,7 +1,4 @@
 # Airlines-management-system-DBMS
-Here’s a README template for your GitHub repository:
-
-```markdown
 # Air Reservation System
 
 ## Overview
