@@ -62,8 +62,11 @@ This project was developed to enhance understanding of database management syste
 Feel free to contribute to this project by forking the repository and submitting a pull request. Please make sure to update tests as appropriate.
 
 ## Screenshots
+![Screenshot 2024-09-21 225941](https://github.com/user-attachments/assets/867fb385-e8fb-419e-a814-c3d78eb344a8)
+![Screenshot 2024-09-21 230000](https://github.com/user-attachments/assets/d7a78774-8aba-494f-9ca2-c1848be2896b)
+![Screenshot 2024-09-21 230119](https://github.com/user-attachments/assets/86e078c7-6203-48d1-830a-b12fc9d4a949)
+![Screenshot 2024-09-21 230309](https://github.com/user-attachments/assets/6bdec936-94b9-40d4-93c0-1e86dc44f782)
 
-Here is a screenshot of web page for the Air Reservation System:
 
 
 
