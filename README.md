@@ -31,8 +31,8 @@ This project is an Air Reservation System built using Python's Tkinter for the G
    pip install pymysql
    ```
 3. **Set Up MySQL Database**:
-   - Create a database named `airlines`.
-   - Create the following tables with appropriate fields:
+   - Use the Queries for MySQL file to Create a database named `airlines`.
+   - and also create the following tables with appropriate fields use the txt file which has the queries:
      - `Passenger`
      - `Ticket`
      - `Flight`
