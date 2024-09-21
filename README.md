@@ -60,16 +60,4 @@ This project is an Air Reservation System built using Python's Tkinter for the G
 ## Contributing
 Feel free to contribute to this project by forking the repository and submitting a pull request. Please make sure to update tests as appropriate.
 
-## License
-This project is licensed under the MIT License.
 
-## Acknowledgments
-- Thanks to all the contributors and libraries that made this project possible.
-```
-
-### Instructions
-1. Replace `yourusername` with your actual GitHub username.
-2. Adjust the database schema instructions according to your actual table structures.
-3. Include any additional information specific to your project as needed.
-
-Feel free to modify this template as necessary!
