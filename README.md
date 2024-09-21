@@ -1,7 +1,8 @@
 # Airlines-management-system-DBMS
 
 ## Overview
-This project is an Air Reservation System built using Python's Tkinter for the GUI and MySQL for the database management. It allows users to manage flights, tickets, passengers, and additional essentials associated with air travel.
+This project is an Air Reservation System built using Python's Tkinter for the GUI and MySQL for the database management. It allows users to manage flights, tickets, passengers, and additional essentials associated with air travel. 
+This project was developed to enhance understanding of database management system (DBMS) concepts using MySQL. It serves as a practical application for managing airline reservations, focusing on CRUD operations, user authentication, and data integrity.
 
 ## Features
 - **User Authentication**: Admin login with validation.
