@@ -24,7 +24,7 @@ This project is an Air Reservation System built using Python's Tkinter for the G
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/AirReservationSystem.git
+   git clone https://github.com/skjawadahmed/Airlines-management-system-DBMS.git
    ```
 2. **Install Dependencies**:
    ```bash
