@@ -70,12 +70,9 @@ Feel free to contribute to this project by forking the repository and submitting
 ![Screenshot 2024-09-21 230119](https://github.com/user-attachments/assets/86e078c7-6203-48d1-830a-b12fc9d4a949)
 ### User Details Deleting Page:
 ![Screenshot 2024-09-21 230309](https://github.com/user-attachments/assets/6bdec936-94b9-40d4-93c0-1e86dc44f782)
-
-
-
-
-
-
+### DATABASE TABLES & DETAILS ENTERED BY USER :
+![Screenshot 2024-09-21 231353](https://github.com/user-attachments/assets/02e59d8e-38f2-448b-9784-a2813b2092e5)
+![Screenshot 2024-09-21 231427](https://github.com/user-attachments/assets/c077b980-3f19-4d64-b85c-eb31ec5f8333)
 
 ### Future Improvements
 
