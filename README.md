@@ -47,7 +47,7 @@ This project is an Air Reservation System built using Python's Tkinter for the G
 5. **Run the Application**:
    Execute the main script:
    ```bash
-   python main.py
+   python project.py
    ```
 
 ## Usage
@@ -59,5 +59,20 @@ This project is an Air Reservation System built using Python's Tkinter for the G
 
 ## Contributing
 Feel free to contribute to this project by forking the repository and submitting a pull request. Please make sure to update tests as appropriate.
+
+### Future Improvements
+
+1. **User Authentication**: Implement password hashing for security.
+2. **Input Validation**: Add checks for user inputs to prevent errors.
+3. **Error Handling**: Enhance handling of database and SQL errors.
+4. **UI Enhancements**: Redesign the interface for better usability.
+5. **Search Functionality**: Enable searching and filtering of records.
+6. **Data Export**: Add options to export data to CSV or Excel.
+7. **Logging**: Introduce logging for monitoring and debugging.
+8. **Unit Testing**: Write tests for critical functions.
+9. **Documentation**: Improve inline comments and documentation.
+10. **Multi-user Support**: Expand roles with varying permissions.
+11. **Performance Optimization**: Optimize queries and use connection pooling.
+12. **Mobile Responsiveness**: Ensure usability on mobile devices.
 
 
