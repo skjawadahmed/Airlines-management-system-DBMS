@@ -1,2 +1,79 @@
 # Airlines-management-system-DBMS
-Airlines Management system DBMS
+Here’s a README template for your GitHub repository:
+
+```markdown
+# Air Reservation System
+
+## Overview
+This project is an Air Reservation System built using Python's Tkinter for the GUI and MySQL for the database management. It allows users to manage flights, tickets, passengers, and additional essentials associated with air travel.
+
+## Features
+- **User Authentication**: Admin login with validation.
+- **Passenger Management**: Add, view, and delete passenger details.
+- **Ticket Management**: Book and delete tickets.
+- **Flight Management**: Add and remove flight details.
+- **Essentials Management**: Manage food and drink orders associated with flights.
+
+## Technologies Used
+- Python
+- Tkinter (for GUI)
+- PyMySQL (for MySQL database connection)
+
+## Requirements
+- Python 3.x
+- Tkinter (usually included with Python installations)
+- PyMySQL (install via pip)
+- MySQL Server
+
+## Setup Instructions
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/AirReservationSystem.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   pip install pymysql
+   ```
+3. **Set Up MySQL Database**:
+   - Create a database named `airlines`.
+   - Create the following tables with appropriate fields:
+     - `Passenger`
+     - `Ticket`
+     - `Flight`
+     - `Essential`
+
+4. **Configure Database Connection**:
+   Update the database connection details in the code:
+   ```python
+   db = pymysql.connect(host='localhost', user='root', passwd='your_password', db='airlines', autocommit=True)
+   ```
+
+5. **Run the Application**:
+   Execute the main script:
+   ```bash
+   python main.py
+   ```
+
+## Usage
+1. Launch the application.
+2. Log in with the following credentials:
+   - Username: `admin`
+   - Password: `login@123`
+3. Use the navigation buttons to manage passengers, tickets, flights, and essentials.
+
+## Contributing
+Feel free to contribute to this project by forking the repository and submitting a pull request. Please make sure to update tests as appropriate.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+- Thanks to all the contributors and libraries that made this project possible.
+```
+
+### Instructions
+1. Replace `yourusername` with your actual GitHub username.
+2. Adjust the database schema instructions according to your actual table structures.
+3. Include any additional information specific to your project as needed.
+
+Feel free to modify this template as necessary!
